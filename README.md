@@ -1,4 +1,3 @@
-# my_cv
-cv_website_with_css
-**SCREENSHOT
+# Screenshot
+
 ![screenshot image](screenshot/screenshot.png)
